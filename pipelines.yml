@@ -1,5 +1,5 @@
 resources:
-  - name: nodeRepoResource
+  - name: basicNodeRepoResource
     type: GitRepo
     configuration:
       gitProvider: aidan_github
